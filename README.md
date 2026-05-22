@@ -51,7 +51,8 @@ while True:
             i += window_size
 ```
 ## OUPUT
-<img width="1875" height="528" alt="image" src="https://github.com/user-attachments/assets/4ab758bd-f401-40bf-9d0e-f914adb5bc59" />
+<img width="2137" height="537" alt="image" src="https://github.com/user-attachments/assets/96648590-5396-4d5f-8de5-2146843da7d4" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
